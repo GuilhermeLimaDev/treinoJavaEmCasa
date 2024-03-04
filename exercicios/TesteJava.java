@@ -38,5 +38,3 @@ public class TesteJava {
     }
 
 }
-
-//Testtando uma função que talvez de certo.
